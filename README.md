@@ -1,2 +1,3 @@
 # ISE
-University course "Introduction to Software Engineering".
+Course project creating in collaboration with four of my colleagues.
+Project got an excellent mark.
